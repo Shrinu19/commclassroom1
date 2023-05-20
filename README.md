@@ -4,3 +4,4 @@
 - Archismaan Kashyap says that this community is amazing.
 - hey 
 - lol 
+- Example of merge conflicts.
